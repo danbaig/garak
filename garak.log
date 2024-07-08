@@ -1,0 +1,10 @@
+2024-04-08 15:02:08,825  INFO  invoked
+2024-04-08 15:02:08,825  DEBUG  Loading configs from: /mnt/d/garak-main/garak/resources/garak.core.yaml
+2024-04-08 15:02:08,850  DEBUG  args - raw argument string received: ['--list_probes']
+2024-04-08 15:02:08,850  DEBUG  args - full argparse: Namespace(verbose=0, report_prefix=None, narrow_output=False, parallel_requests=False, parallel_attempts=False, seed=None, deprefix=True, eval_threshold=0.5, generations=10, config=None, model_type=None, model_name=None, generator_option_file=None, generator_options=None, probes='all', probe_option_file=None, probe_options=None, probe_tags=None, detectors='auto', extended_detectors=False, buffs=None, taxonomy=None, plugin_info=None, list_probes=True, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, version=False, report=None, interactive=False, generate_autodan=False, **{'interactive.py': False})
+2024-04-08 15:02:08,853  DEBUG  no site config found at: /mnt/d/garak-main/garak/garak.site.yaml
+2024-04-08 15:02:08,854  DEBUG  Loading configs from: /mnt/d/garak-main/garak/resources/garak.core.yaml
+2024-04-08 15:02:08,862  DEBUG  args - cli_args&commands stored: Namespace(list_probes=True, verbose=0, list_detectors=False, list_generators=False, list_buffs=False, list_config=False, plugin_info=None, interactive=False, report=None, version=False)
+2024-04-08 15:02:08,862  DEBUG  non-config params: [('list_probes', True), ('list_detectors', False), ('list_generators', False), ('list_buffs', False), ('list_config', False), ('plugin_info', None), ('interactive', False), ('report', None), ('version', False)]
+2024-04-08 15:02:09,158  INFO  started at 2024-04-08T15:02:08.778857
+2024-04-08 15:02:09,163  INFO  reporting to garak_runs/garak.a0785f4d-9be8-4ef0-a985-7d513c0b5582.report.jsonl
